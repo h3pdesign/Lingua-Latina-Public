@@ -24,6 +24,15 @@ When users explicitly enable an external AI provider, only the text needed for t
 
 Read the [privacy policy](https://apps-h3p.com/apps/lingua-latina/privacy-policy).
 
+## Support and Contact
+
+For questions about this public product-information repository, open an
+[issue](https://github.com/h3pdesign/Lingua-Latina-Public/issues). The app is
+supported and distributed through its [App Store listing](https://apps.apple.com/de/app/lingua-latina/id6767503541).
+
+App releases are published through the App Store only. This repository does
+not distribute application binaries or GitHub releases.
+
 ## Repository Scope
 
 This is a public product-information repository. It contains selected documentation and visual assets only.
