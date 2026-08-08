@@ -1,0 +1,41 @@
+# Lingua Latina
+
+![Lingua Latina app icon](assets/app-icon-clear-light.png)
+
+Lingua Latina is a Latin learning and reference app for iPhone and iPad. It helps learners look up words and forms, understand grammar, analyse sentences, and study vocabulary.
+
+The app is available for purchase on the [App Store](https://apps.apple.com/de/app/lingua-latina/id6767503541).
+
+![Lingua Latina on iPhone](assets/iphone-home-de.png)
+
+## Features
+
+- Latin dictionary and inflected-form lookup
+- Grammar, citations, sources, and study tools
+- Sentence analysis with translations and word-by-word explanations
+- Offline-first lookup in supported builds
+- Optional Apple Intelligence, OpenAI, and local-model support
+
+## Privacy
+
+Lingua Latina does not require an account and does not include advertising, analytics, tracking, or developer-operated telemetry. Settings, favourites, and study progress are stored locally on the device.
+
+When users explicitly enable an external AI provider, only the text needed for the selected request is sent to that provider. The app does not automatically upload the database, unrelated files, contacts, location, or study history.
+
+Read the [privacy policy](https://apps-h3p.com/apps/lingua-latina/privacy-policy).
+
+## Repository Scope
+
+This is a public product-information repository. It contains selected documentation and visual assets only.
+
+The following are intentionally excluded:
+
+- Application source code
+- Xcode projects and build configuration
+- Bundled databases and proprietary content data
+- StoreKit configuration and signing material
+- App binaries and distribution credentials
+
+## License
+
+The contents of this repository are proprietary. See [LICENSE](LICENSE). The Lingua Latina application is distributed through the App Store and is subject to Apple's terms and the applicable purchase terms.

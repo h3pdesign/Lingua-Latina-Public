@@ -1,0 +1,19 @@
+# Never add application source or project internals to the public repository.
+*.swift
+*.m
+*.mm
+*.h
+*.sqlite
+*.db
+*.storekit
+*.mobileprovision
+*.p12
+*.cer
+*.xcarchive
+*.ipa
+*.app
+
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+.DS_Store
