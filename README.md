@@ -8,6 +8,8 @@ The app is available for purchase on the [App Store](https://apps.apple.com/de/a
 
 Visit the [German product site](https://h3pdesign.github.io/Lingua-Latina-Public/).
 
+See the complete [h3pdesign portfolio](https://h3pdesign.github.io/) for all work and projects.
+
 ![Lingua Latina on iPhone](assets/iphone-home-de.png)
 
 ## Features
