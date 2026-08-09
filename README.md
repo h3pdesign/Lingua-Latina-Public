@@ -6,7 +6,7 @@ Lingua Latina is a Latin learning and reference app for iPhone and iPad. It help
 
 The app is available for purchase on the [App Store](https://apps.apple.com/de/app/lingua-latina/id6767503541).
 
-Visit the [German product site](https://h3pdesign.github.io/Lingua-Latina-Public/).
+Visit the [German product site](https://h3pdesign.github.io/Lingua-Latina-Public/) or the [English localization](https://h3pdesign.github.io/Lingua-Latina-Public/en/).
 
 See the complete [h3pdesign portfolio](https://h3pdesign.github.io/) for all work and projects.
 
